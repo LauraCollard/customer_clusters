@@ -1,2 +1,2 @@
-# Creating customer clusters: unsupervised learning project
+# Creating customer clusters
 
